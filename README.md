@@ -91,4 +91,4 @@ code or documentation is redistributed here in substantial part.
 
 ## License
 
-MIT. Copyright 0xelitesystem 2026.
+MIT. Copyright RBL Industries LLC 2026.
