@@ -6,7 +6,7 @@ entry is quoted from a primary source and cited. `api-versioning-basics-referenc
 teaches how to version an API you own; this is the receiving end, written for the
 person whose code changed meaning while they were not looking.
 
-Stated plainly up front: my own `api-changelog-rss` diffs two OpenAPI specs and
+Stated plainly up front: my own `openapi-changelog-diff` diffs two OpenAPI specs and
 reports added, removed and changed operations, and it cannot see a single one of
 these five, because none of them changes the schema. A spec diff is the wrong
 instrument for this entire class of failure.
@@ -86,7 +86,7 @@ code or documentation is redistributed here in substantial part.
 ## Related
 
 - https://github.com/0xelitesystem/api-versioning-basics-reference
-- https://github.com/0xelitesystem/api-changelog-rss
+- https://github.com/0xelitesystem/openapi-changelog-diff
 - https://github.com/0xelitesystem/semantic-versioning-reference
 
 ## License
